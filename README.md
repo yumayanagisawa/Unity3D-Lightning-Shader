@@ -5,3 +5,5 @@ The original shader code is converted to use in Unity(ShaderLab) from "Lightinin
 Some screenshot below.
 
 ![Screenshot](Screenshot.png)
+
+Demo on YouTube(https://youtu.be/hbzVAx7txxg)
